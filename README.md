@@ -14,7 +14,7 @@
 ### About Me 🐢
 - 🌱 I'm passionate about  Web Dev, Machine Learning, GTK & I enjoy learning new things.
 - 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Information Technology.
-- 😅 I mostly work on Gitlab  
+- 😅 I mostly work on [GitLab](https://gitlab.com/sushant.co19) 
 
 <h3 align="left">Languages and Tools 🛠️ : </h3>
 <p align="left"> 
